@@ -1,0 +1,132 @@
+.container {
+  width: 1320px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+/*Menu styles*/
+.menu {
+  width: 20%;
+}
+.menu > ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.menu > ul > li {
+  padding: 10px 0 10px 0;
+  cursor: pointer;
+  margin-bottom: 10px;
+}
+.menu > ul > li:hover {
+  background-color: #042cbc;
+  color: #fff;
+  width: 200px;
+  padding-left: 30px;
+  border-radius: 8px;
+}
+.menu_logo {
+  width: 120px;
+  height: 120px;
+}
+.menu_title {
+  width: 120px;
+}
+.menu_logo > img {
+  width: 100%;
+  display: block;
+}
+
+.menu_title > span {
+  display: block;
+  text-align: center;
+  padding-top: 20px;
+  font-size: 25px;
+  font-weight: 600;
+}
+.menu_raiting {
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.menu_raiting > span {
+  display: block;
+  font-size: 24px;
+  font-weight: 600;
+}
+.menu_raiting_star {
+  padding-left: 10px;
+  color: darkorange;
+}
+.active {
+  background-color: #011765;
+  color: #fff;
+  width: 200px;
+  padding-left: 30px !important;
+  border-radius: 8px;
+}
+
+/*Messages styles*/
+
+.messeges {
+  width: 70%;
+}
+.messeges > span {
+  font-weight: 600;
+  font-size: 30px;
+}
+.messegesButton {
+  display: flex;
+  justify-content: space-between;
+  width: 70%;
+  margin-top: 20px;
+}
+.serch_form > input {
+  padding: 9px;
+  background-color: #c8c8c8;
+  border-radius: 10px;
+  border: 1px solid gray;
+}
+.serch_form > input:focus {
+  outline: none;
+}
+.input_form > input::-webkit-input-placeholder {
+  color: #656262;
+}
+
+.chat {
+  background-color: #ebebeb;
+  display: flex;
+  margin: 30px 0 20px 0;
+  padding: 10px;
+  border-radius: 15px;
+}
+.message_right_block {
+  display: flex;
+  flex-direction: column;
+}
+.message_right_block p {
+  margin: 0;
+  padding-top: 10px;
+}
+.avatar_user {
+  padding: 10px;
+}
+.messages_userName,
+.titleAd,
+.message_from_user {
+  padding-left: 20px;
+}
+.messages_userName > p {
+  font-size: 22px;
+  font-weight: 600;
+}
+.titleAd > p{
+font-size: 13px;
+}
+.message_from_user > p{
+   font-size: 10px;
+   color: gray;
+}

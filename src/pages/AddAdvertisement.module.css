@@ -1,0 +1,50 @@
+.title_AddAdvertisement > span,
+.photo_AddAdvertisement > span,
+.description_AddAdvertisement > span,
+.price_AddAdvertisement > span {
+  display: block;
+  padding-bottom: 10px;
+  font-weight: 600;
+  font-size: 12px;
+}
+.photo_AddAdvertisement,
+.description_AddAdvertisement {
+  margin-top: 40px;
+}
+.description_AddAdvertisement > textarea {
+  height: 200px;
+  resize: none;
+}
+.button_AddAdvertisement {
+  width: 800px;
+  margin: 100px auto;
+}
+.title_AddAdvertisement > input,
+.photo_AddAdvertisement > input,
+.description_AddAdvertisement > textarea,
+.price_AddAdvertisement > input, .description_AddAdvertisement >input  {
+  width: 800px;
+  padding: 8px;
+  border-radius: 8px;
+  border: 1px solid gray;
+  background-color: gray;
+  color: white;
+}
+.description_AddAdvertisement > span {
+margin-top: 30px;
+}
+
+
+.title_AddAdvertisement > input::-webkit-input-placeholder,
+.photo_AddAdvertisement > input::-webkit-input-placeholder,
+.price_AddAdvertisement > input::-webkit-input-placeholder,
+.description_AddAdvertisement > input::-webkit-input-placeholder {
+  color: white;
+}
+.title_AddAdvertisement > input:focus,
+.photo_AddAdvertisement > input:focus,
+.description_AddAdvertisement > textarea:focus,
+.price_AddAdvertisement > input:focus,
+.description_AddAdvertisement > input:focus{
+  outline: none;
+}

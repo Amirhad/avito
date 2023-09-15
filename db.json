@@ -1,0 +1,532 @@
+{
+  "advertisement": [
+    {
+      "id": 1,
+      "title": "Ликвидация Костюмы тройки 400шт+ Турция",
+      "price": "5.000₽",
+      "location": "Грозный",
+      "date": "3 июля, 12:41",
+      "image": "https://40.img.avito.st/image/1/1.IIVGh7a4jGxwLk5pCpdDnXsljmr4Jg5kMCOObvYuhGbw.yhzjsI6PVphCEwd5stmd-86OD5Cy4AnngRKY_fNCnfw"
+    },
+    {
+      "id": 2,
+      "title": "Мужская одежда",
+      "price": "5.500₽",
+      "location": "Грозный",
+      "date": "20 июля, 16:51",
+      "image": "https://30.img.avito.st/image/1/1.jLy6eba4IFWM0OJQriPF8ZbbIlME2KJdzN0iVwrQKF8M.FD_GujrLGZOe_2DL807csD3XMZzbYIMOw-kt1sdj7Pc"
+    },
+    {
+      "id": 3,
+      "title": "Спортивная форма nike",
+      "price": "2.500₽",
+      "location": "Грозный",
+      "date": "21 июля, 17:53",
+      "image": "https://30.img.avito.st/image/1/1.iHe947a4JJ6LSuabofX8A5JBJpgDQqaWy0cmnA1KLJQL.1ofnekxoitfd8DGvhiHTZJ8wtyT-MbA2Bb5IFhKni8I"
+    },
+    {
+      "id": 4,
+      "title": "Костюм новый Лен",
+      "price": "3.990₽",
+      "location": "Грозный",
+      "date": "19 июля, 18:29",
+      "image": "https://60.img.avito.st/image/1/1.exm8sLa41_CKGRX1xpkYOIQS1fYCEVX4yhTV8gwZ3_oK.jLvA4hpkz5u7fCMIgN5n0Nuclinszg-zRI9aSsxCr4A"
+    },
+    {
+      "id": 5,
+      "title": "Массажный коврик Акупунктурный",
+      "price": "950₽",
+      "location": "Грозный",
+      "date": "23 июля, 22:18",
+      "image": "https://40.img.avito.st/image/1/1.hBt8qba4KPJKAOr3eI_2F1ALKvTCCKr6Cg0q8MwAIPjK.-qnjiLUfLHf-1d5w0qwVtlDOX5n7GoS27C2h_5BQv7s"
+    },
+    {
+      "id": 6,
+      "title": "Мужской костюм комбат хит продаж",
+      "price": "2.990₽",
+      "location": "Грозный",
+      "date": "12 июля, 23:19",
+      "image": "https://40.img.avito.st/image/1/1.XNkVVba48DAj_DI1IXR8ty738jar9HI4Y_HyMqX8-Dqj.sbAFHNKjdcsJYphx4dBZ-q3-UCLJMEf_-nFVcMFZkmA"
+    },
+    {
+      "id": 7,
+      "title": "Спортивный костюм Stone Island",
+      "price": "3.985₽",
+      "location": "Грозный",
+      "date": "15 июля, 18:15",
+      "image": "https://40.img.avito.st/image/1/1.ejlKHba41tB8tBTVMnxCYWW_1Nb0vFTYPLnU0vq03tr8.asjhdSnMhApwtNiKFZG7dKGOxyqGKRsH1QNNWdCYBmA"
+    },
+    {
+      "id": 8,
+      "title": "Костюм",
+      "price": "1.000₽",
+      "location": "Грозный",
+      "date": "3 июля, 12:46",
+      "image": "https://70.img.avito.st/image/1/1.XXXXIba48ZzhiDOZ4TRbbfeD85ppgHOUoYXznmeI-ZZh.8At_ufm7NrrZDGQozWB7JPWFquobD5G56ksYfUUNXRg"
+    },
+    {
+      "id": 9,
+      "title": "Намазник с шарфом",
+      "price": "1.500₽",
+      "location": "Грозный",
+      "date": "сегодня, 15:36",
+      "image": "https://30.img.avito.st/image/1/1.U9xxqba4_zVHAD0wW4Q5_VwL_TPPCH09Bw39N8EA9z_H.PUpyBeRTIfqvIe1-prYnnjI2yRdpZOqjwbgM8avQxlA"
+    },
+    {
+      "id": 10,
+      "title": "Костюм мужской французский лен новый",
+      "price": "2.400₽",
+      "location": "Грозный",
+      "date": "вчера, 21:32",
+      "image": "https://00.img.avito.st/image/1/1.gXRz3ra4LZ1Fd--YfeSxKF58L5vNf6-VBXovn8N3JZfF.LkCgdLrvk65OB-0aTD4GFi65BSWx7w_WC1rmPbcPjFQ"
+    },
+    {
+      "id": 11,
+      "title": "Набор: баллистический шлем без ушей + чехол, очки",
+      "price": "26 950₽",
+      "location": "Грозный",
+      "date": "Сегодня, 11:54",
+      "image": "https://60.img.avito.st/image/1/1.AZ24vba4rXSOFG9xtpkG95Ufr3IGHC98zhmvdggUpX4O.lx9J34XiiLXZzJd0xY7TKjJ5IxXi1n6TMw7h5op4dNw"
+    },
+    {
+      "id": 12,
+      "title": "Вечернее платье",
+      "price": "3 000₽",
+      "location": "Грозный",
+      "date": "Сегодня, 12:44",
+      "image": "https://10.img.avito.st/image/1/1.7tqzg7a4QjOFKoA245CIrJkhQDUNIsA7xSdAMQMqSjkF.NSDKzumXBvgmSVi1yyE6UVHIpERI2S9vDLgganos5QE"
+    },
+    {
+      "title": "скутер",
+      "price": "37.000",
+      "image": "https://sila-volt.ru/d/zxt_8235jpg-01.jpg",
+      "date": "Сегодня в 19:36",
+      "location": "Grozny",
+      "id": 13
+    }
+  ],
+  "title": [
+    {
+      "id": 1,
+      "title": "Ликвидация Костюмы тройки 400шт+ Турция",
+      "price": "5.000₽"
+    },
+    {
+      "id": 2,
+      "title": "Мужская одежда",
+      "price": "5.500₽"
+    },
+    {
+      "id": 3,
+      "title": "Спортивная форма nike",
+      "price": "2.500₽"
+    },
+    {
+      "id": 4,
+      "title": "Костюм новый Лен",
+      "price": "3.990₽"
+    },
+    {
+      "id": 5,
+      "title": "Массажный коврик Акупунктурный",
+      "price": "950₽"
+    },
+    {
+      "id": 6,
+      "title": "Мужской костюм комбат хит продаж",
+      "price": "2.990₽"
+    },
+    {
+      "id": 7,
+      "title": "Спортивный костюм Stone Island",
+      "price": "3.985₽"
+    },
+    {
+      "id": 8,
+      "title": "Костюм",
+      "price": "1.000₽"
+    },
+    {
+      "id": 9,
+      "title": "Намазник с шарфом",
+      "price": "1.500₽"
+    },
+    {
+      "id": 10,
+      "title": "Костюм мужской французский лен новый",
+      "price": "2.400₽"
+    },
+    {
+      "id": 11,
+      "title": "Набор: баллистический шлем без ушей + чехол, очки",
+      "price": "26 950₽"
+    },
+    {
+      "id": 12,
+      "title": "Вечернее платье",
+      "price": "3 000₽"
+    }
+  ],
+  "descriptionAdvertisement": [
+    {
+      "advertisementId": 1,
+      "description": "Тем кто спрашивают, черных костюмов тоже очень много В регионы классические костюмы не отправляем, из за сложного подбора, то же самое касается доставки по ЧР\n\nЛиквидация старого ассортимента 300+ (на старте 600+), кроме новинок 2023, скидки на все остальные модели\nТорга нет, и без того оптовая, а то и ниже, цена,\nСотни турецких костюмов с последними размерами в сериях, качество отличное, отдаем для освобождения места\nПроизводство Турция\n\nМы находимся по адресу Грозный, Назарбаева 106, ТЦ Гранд Деловой, вход через ReMobile, рядом с МТС, 3 этаж"
+    },
+    {
+      "advertisementId": 2,
+      "description": "МУЖСКАЯ ОДЕЖДА ОБУВЬ АКСЕССУАРЫ ХОДОВАЯ МОДЕЛЬ НАТУРАЛЬНАЯ КОЖА ЦЕНА—- 5500р —- МАГАЗИН —— ЦЕНТАРОЙ —- ДОСТАВКА ЛЮБОЙ РЕГИОН РОССИИ Наш адрес г. Грозный, ул.Назарбаева 106, ТЦ Гранд Деловой, 3 этаж на лифте, вход через ReMobile"
+    },
+    {
+      "advertisementId": 3,
+      "description": "Все формы по 2500₽ Материал: Для лета самое-то.Оверсайз Производство: Турция. Сезон: Лето.✅ Размеры M-46/L-48/XL-50/2XL-52 Доставка по всей России - Для заказа пишите.\n\nТОВАР ОПТОМ И В РОЗНИЦУ.🔥\n\nДобавьте объявление в ИЗБРАННОЕ ❤️ (нажмите на сердечко) чтобы не потерять контакт с одним из самых лучших предложений одежды.\n\n📞ЗВОНИТЕ ПРЯМО СЕЙЧАС!"
+    },
+    {
+      "advertisementId": 4,
+      "description": "🔝Костюмы лен\n🔝Размеры : 46,48,50,52\n🔝Всего за 3990₽\n\n➰Подпишитесь на нас авито и в телеграм, чтобы не пропустить новый завоз\n➰Принимаем заказы оптом и в розницу\n➰Доставка по всей России\n➰Полная предоплата\n➰Ждем ваших отзывов после покупки😎🔝"
+    },
+    {
+      "advertisementId": 5,
+      "description": "В наличии !\nКоличество ограничено 🛑\nУспейте приобрести 🛑\n\nКоврик с помощью множества иголок оздоравливает и убирает отеки Принципы воздействия аппарата.\nГлубокое расслабление мышц снимает спазмы и боли в шейно плечевом отделе и пояснице.\nСтимулирование кровообращения и т.д\n\nДоставка 🚚 📦"
+    },
+    {
+      "advertisementId": 6,
+      "description": "⚜️Долгожданный повтор костюм комбат 🤩\n\n▪️Размеры➖С (44), М(46), Л(48), Хл(50), 2 хл(52),3хл(54)\n\n▪️Стоимость➖2990₽\n\n🔝Продажи оптом и в розницу\n🔝Гарантия качества\n🔝Гарантия обмена\n\n📦Доставка по всей России\nПочта\nСдэк\nАвтобус\n✅Подберем точный размер"
+    },
+    {
+      "advertisementId": 7,
+      "description": "Спортивный костюм Stone Island\n\n🎁 Мы дарим подарки нашим клиентам!\n\n👔Размерный ряд: 46 (S), 48 (M), 50 (L), 52 (XL), 54 (XXL), 56 (XXXL)\n\n✅️Наш менеджер поможет вам с подбором размера, чтобы наш товар точно вам подошёл!\n\n🇹🇷Премиальное качество Турция!\n\n🚀Отправим авито доставкой по всей России!\n\n❕При получении есть проверка 15 минут и бесплатный отказ!\n\n🔥Пишите, количество ограничено!\n\nАртикул: G G E A B 4 3  "
+    },
+    {
+      "advertisementId": 8,
+      "description": "Девочки я вам всем отвечать на успеваю пожалуйста читайте описание…я не продаю одежду я продаю поставщика с Джалки у них вся одежда по 1т которая других стоит 5-6т.Поставщик стоит 200. У других этот поставщик стоит 1т успейте только сегодня отдам за 200..Если не собираетесь купить пожалуйста не трать те мое время…."
+    },
+    {
+      "advertisementId": 9,
+      "description": "намазник из ткани прадо шелк ( очень легкая ) цена 1500"
+    },
+    {
+      "advertisementId": 10,
+      "description": "Костюм двойка, рубашка и брюки с карманами. Материал лен. Это фото с каталога, сидит так же один в один. Нахожусь во Владикавказе, могу отправить маршруткой в Грозный (200р). Есть так же другие цвета на заказ. отправляю Авито доставкой."
+    },
+    {
+      "advertisementId": 11,
+      "description": "💥 Обеспечьте свою надежную защиту с набором: Баллистический шлем без ушей (Mich), уровень защиты 2, материал Арамид в цвете Олива + чехол, очки и балаклава в комплекте! 💥\n\n☎️ Звоните прямо сейчас и приобретите набор для надежной защиты!\n\n\nАртикул изделия: DDC415FGT545\n\n💯 В НАЛИЧИИ, ГАРАНТИЯ!\nПИШИТЕ/ЗВОНИТЕ!\n\n🏆 \"ALMI ARMOR\" - оптовый и розничный магазин склад армейского обмундирования.\nВоенные товары напрямую от заводов производителей!\nВ наличии другие товары, переходите в профиль для просмотра ассортимента ⏩⏩⏩⏩⏩⏩\n\n💵 Оплата НАЛ/БЕЗНАЛ\n🚚 Доставка курьером или транспортной компанией по РФ! Авито Доставка!\n\n❤️ Добавьте объявление в избранное, чтобы первыми узнать о снижении цены и не потерять!\n\n📲 Пишите/звоните, ответим на все вопросы!\n\nС Уважением \"ALMI ARMOR\""
+    },
+    {
+      "advertisementId": 12,
+      "description": "Одевала один раз,в отличном состоянии"
+    }
+  ],
+  "addresses": [
+    {
+      "id": 1,
+      "address": "Чеченская Республика, Грозный, ул. Нурсултана Абишевича Назарбаева, 106"
+    },
+    {
+      "id": 2,
+      "address": "Чеченская Республика, Грозный, Ахматовский район"
+    },
+    {
+      "id": 3,
+      "address": "Чеченская Республика, Грозный, пл. Минутка"
+    },
+    {
+      "id": 4,
+      "address": "Чеченская Республика, Грозный, б-р Султана Дудаева, 12А"
+    },
+    {
+      "id": 5,
+      "address": "Чеченская Республика, Грозный, пр-т В.В. Путина, 38"
+    },
+    {
+      "id": 6,
+      "address": "Чеченская Республика, Грозный, Ахматовский район"
+    },
+    {
+      "id": 7,
+      "address": "Чеченская Республика, Грозный"
+    },
+    {
+      "id": 8,
+      "address": "Чеченская Республика, Грозный, ул. А.А. Айдамирова, 133"
+    },
+    {
+      "id": 9,
+      "address": "Чеченская Республика, Грозный, пл. Ахмата Кадырова"
+    },
+    {
+      "id": 10,
+      "address": "Чеченская Республика, Грозный, пл. Ахмата Кадырова"
+    },
+    {
+      "id": 11,
+      "address": "Чеченская Республика, Грозный"
+    },
+    {
+      "id": 12,
+      "address": "Чеченская Республика, Грозный, пл. Ахмата Кадырова"
+    }
+  ],
+  "phone": [
+    {
+      "id": 1,
+      "phone": "8 938 173 03 50"
+    },
+    {
+      "id": 2,
+      "phone": "8 938 173 03 50"
+    },
+    {
+      "id": 3,
+      "phone": "8 938 173 03 50"
+    },
+    {
+      "id": 4,
+      "phone": "8 938 173 03 50"
+    },
+    {
+      "id": 5,
+      "phone": "8 938 173 03 50"
+    },
+    {
+      "id": 6,
+      "phone": "8 938 173 03 50"
+    },
+    {
+      "id": 7,
+      "phone": "8 938 173 03 50"
+    },
+    {
+      "id": 8,
+      "phone": "8 938 173 03 50"
+    },
+    {
+      "id": 9,
+      "phone": "8 938 173 03 50"
+    },
+    {
+      "id": 10,
+      "phone": "8 938 173 03 50"
+    },
+    {
+      "id": 11,
+      "phone": "8 938 173 03 50"
+    },
+    {
+      "id": 12,
+      "phone": "8 938 173 03 50"
+    }
+  ],
+  "sliderImage": [
+    {
+      "id": 1,
+      "largeImage": "https://40.img.avito.st/image/1/1.IIVGh7a4jGxwLk5pCpdDnXsljmr4Jg5kMCOObvYuhGbw.yhzjsI6PVphCEwd5stmd-86OD5Cy4AnngRKY_fNCnfw",
+      "image_1": "https://20.img.avito.st/image/1/1.XAS0Jba48O2CjDLogHQ-HImH8usKhHLlwoHy7wSM-OcC.oyWpew9g3-QAu30P3P74IW-SxVl8GxCY1FaATDriVJQ",
+      "image_2": "https://90.img.avito.st/image/1/1.-brrQ7a4VVPd6pdWlRybotbhV1VV4tdbnedXUVvqXVld.Yulw4Ol5Q0fSb7dqvqI5LZFw2tH18sBv6rpuWb5oA1c",
+      "image_3": "https://90.img.avito.st/image/1/1.-brrQ7a4VVPd6pdWlRybotbhV1VV4tdbnedXUVvqXVld.Yulw4Ol5Q0fSb7dqvqI5LZFw2tH18sBv6rpuWb5oA1c",
+      "image_4": "https://30.img.avito.st/image/1/1.OBuQDba4lPKmpFb37DFbA62vlvQurBb65qmW8CCknPgm.vXXh87GfY-8cjwRwIjFoRi9ucYg3eVFf9kqQ-DZo8GA"
+    },
+    {
+      "id": 2,
+      "largeImage": "https://30.img.avito.st/image/1/1.jLy6eba4IFWM0OJQriPF8ZbbIlME2KJdzN0iVwrQKF8M.FD_GujrLGZOe_2DL807csD3XMZzbYIMOw-kt1sdj7Pc",
+      "image_1": "https://70.img.avito.st/image/1/1.p8Awzra4CykGZ8kscpTujRxsCS-Ob4khRmoJK4BnAyOG.LplclNGRRhFuHxxjrsfgZdx9yeYOKShsIrBGNhmfcAE",
+      "image_2": "https://50.img.avito.st/image/1/1.9foCDba4WRM0pJsWZFK8ty6vWxW8rNsbdKlbEbKkURm0.hAGpW47NdmwdooxrNuIFNZunVo6oj-UOp53PzyGRB6M",
+      "image_3": "https://70.img.avito.st/image/1/1.nV8Ysra4MbYuG_OzLuzUEjQQM7CmE7O-bhYztKgbObyu.9lDBFXD1UyIAobU3j0tP3Pbxob6lHtr1frfmIXDB7-k",
+      "image_4": "https://90.img.avito.st/image/1/1.azkO5ba4x9A4TAXVVLgidCJHxdawREXYeEHF0r5Mz9q4.Hd2d7nE5J-R6iytYnWbmmOrfShc3loJuaPxpRLSh5m8"
+    },
+    {
+      "id": 3,
+      "largeImage": "https://30.img.avito.st/image/1/1.iHe947a4JJ6LSuabofX8A5JBJpgDQqaWy0cmnA1KLJQL.1ofnekxoitfd8DGvhiHTZJ8wtyT-MbA2Bb5IFhKni8I",
+      "image_1": "https://30.img.avito.st/image/1/1.iHe947a4JJ6LSuabofX8A5JBJpgDQqaWy0cmnA1KLJQL.1ofnekxoitfd8DGvhiHTZJ8wtyT-MbA2Bb5IFhKni8I",
+      "image_2": "https://40.img.avito.st/image/1/1.sWqNtba4HYO7HN-G47vFHqIXH4UzFJ-L-xEfgT0cFYk7.VJqmeeYRvqX-O2s34U1EijDCekidoCDaLvW_bUAPCyk",
+      "image_3": "https://40.img.avito.st/image/1/1.sWqNtba4HYO7HN-G47vFHqIXH4UzFJ-L-xEfgT0cFYk7.VJqmeeYRvqX-O2s34U1EijDCekidoCDaLvW_bUAPCyk",
+      "image_4": "https://10.img.avito.st/image/1/1.y0v4hra4Z6LOL6Wn4pW_P9ckZaRGJ-WqjiJloEgvb6hO.5VSgvg-PyK3QsFcrH0CxnKlXZ3Q2ZrG-wPgi2Kkiz3w"
+    },
+    {
+      "id": 4,
+      "largeImage": "https://60.img.avito.st/image/1/1.exm8sLa41_CKGRX1xpkYOIQS1fYCEVX4yhTV8gwZ3_oK.jLvA4hpkz5u7fCMIgN5n0Nuclinszg-zRI9aSsxCr4A",
+      "image_1": "https://60.img.avito.st/image/1/1.DccAsLa4oS42GWMrFvB5jzgSoyi-ESMmdhSjLLAZqSS2.pGRRQM3_vETDY6dODKBvDscg1gPqirtzN1kGmTz8CUE",
+      "image_2": "https://90.img.avito.st/image/1/1.xinRNba4asDnnKjF0X6yYemXaMZvlOjIp5FowmGcYspn.7SRtRTri-9minpgw6Z3y5KMK510Uv3idR7b1JBJ_RME",
+      "image_3": "https://30.img.avito.st/image/1/1.2E4GOra4dKcwk7aiOnWsBj6YdqG4m_avcJ52pbaTfK2w.6s3e9V3m4dOs4pAJ8_sfEC0XxY8wKhhEnT9vMi6cH1E",
+      "image_4": "https://60.img.avito.st/image/1/1.CSCN_7a4pcm7VmfMk89bY7Vdp88zXifB-1unyz1WrcM7.zSAfOwQL0AxtX4KUOurku_hw6SUxCtv5jHSGsHz6FgI"
+    },
+    {
+      "id": 5,
+      "largeImage": "https://40.img.avito.st/image/1/1.hBt8qba4KPJKAOr3eI_2F1ALKvTCCKr6Cg0q8MwAIPjK.-qnjiLUfLHf-1d5w0qwVtlDOX5n7GoS27C2h_5BQv7s",
+      "image_1": "https://40.img.avito.st/image/1/1.oB26A7a4DPSMqs7x9jXZEZahDvIEoo78zKcO9gqqBP4M.FgfqywBM7BJ8N8ucvnEMdPGezgMD-38CFzaiE9InORg",
+      "image_2": "https://00.img.avito.st/image/1/1.Tf5XN7a44RdhniMSQRI_8nuV4xHplmMfIZPjFeee6R3h.RpEaiNgOHHgXNmnmjdoJW3ZmMBMqqXkP10fpfOAqIFU",
+      "image_3": "https://10.img.avito.st/image/1/1.IOcWDLa4jA4gpU4LWihS6zqujgiorQ4GYKiODKalhASg.8nkqplXUHKUQLSv4rEg5cfqxiHlaggweN-3LuIZnGpk",
+      "image_4": "https://20.img.avito.st/image/1/1.2CcWDLa4dM4gpbbLKieqKzqudsiorfbGYKh2zKalfMSg.x9Cmy5C4feiCTWuF_wIGNorI95fPKIj0zcETOxeDWME"
+    },
+    {
+      "id": 6,
+      "largeImage": "https://40.img.avito.st/image/1/1.XNkVVba48DAj_DI1IXR8ty738jar9HI4Y_HyMqX8-Dqj.sbAFHNKjdcsJYphx4dBZ-q3-UCLJMEf_-nFVcMFZkmA-",
+      "image_1": "https://10.img.avito.st/image/1/1.G_QHNra4tx0xn3UYPRY7mjyUtRu5lzUVcZK1H7efvxex.jPy8FhXBKAc04uzMzMwRnBKZRa4kgJxkLKlzIgY2KYw",
+      "image_2": "https://30.img.avito.st/image/1/1.nmceX7a4Mo4o9vCLLnm-CSX9MIig_rCGaPswjK72OoSo.BixrnjqpzM1JeUmBuzJUlwrxy3T-tV6JMdlh2_Rkpqk",
+      "image_3": "https://40.img.avito.st/image/1/1.KTFvJra4hdhZj0fdMSYTJVOEh97RhwfQGYKH2t-PjdLZ.J7E4Wp7famTwnO3AWHr6RVBzV5jHAh4yQ6USWpkzmkk",
+      "image_4": "https://30.img.avito.st/image/1/1.cW5s-ra43YdaUx-CAv9LelBY34HSW1-PGl7fhdxT1Y3a.tfafz1n1-pRZZCbUVDgZNPhRRwtmVfQcOAhBVSeARvw"
+    },
+    {
+      "id": 7,
+      "largeImage": "https://40.img.avito.st/image/1/1.ejlKHba41tB8tBTVMnxCYWW_1Nb0vFTYPLnU0vq03tr8.asjhdSnMhApwtNiKFZG7dKGOxyqGKRsH1QNNWdCYBmA",
+      "image_1": "https://50.img.avito.st/image/1/1.-R4hRra4VfcX75fyXz3BRg7kV_Gf59f_V-JX9ZHvXf2X.NIBXHQ-BVyEJpXmXRxp7K3Gnj3KaE2-t7YAwyGZ1POU",
+      "image_2": "https://70.img.avito.st/image/1/1.hh-ZaLa4KvavwejzmW6-R7bKKPAnyaj-78wo9CnBIvwv.WCDMdJk1h3-4c6nETapHHg_RMy-lnHEwycl4jBIfnxM",
+      "image_3": "https://50.img.avito.st/image/1/1.k5bzWra4P3_F8_162SSrztz4PXlN-713hf49fUPzN3VF.dhmVZKFX1BmTznt3G-p3JwhmcEQr8uIyJqTAk89AlWc",
+      "image_4": "https://40.img.avito.st/image/1/1.pbfv3ba4CV7ZdMtbqaee78B_C1hRfItWmXkLXF90AVRZ.wzrEmV8ysPp15YVJQwy2-glRDyuMvc2yjDNhuQpwgfY"
+    },
+    {
+      "id": 8,
+      "largeImage": "https://70.img.avito.st/image/1/1.XXXXIba48ZzhiDOZ4TRbbfeD85ppgHOUoYXznmeI-ZZh.8At_ufm7NrrZDGQozWB7JPWFquobD5G56ksYfUUNXRg",
+      "image_1": "https://20.img.avito.st/image/1/1.rKSA2ra4AE22c8JI1PSnvKB4Aks-e4JF9n4CTzBzCEc2.6lLY3rz5C5xhWLJ3UNUShc28vVIYUAt2U7wvLxq6dyA",
+      "image_2": "https://40.img.avito.st/image/1/1.265uqLa4d0dYAbVCVJe-5kEKdUHQCfVPGAx1Rd4Bf03Y.qUSVZLlfE-aywvL-AbDYd8eUenCtTVU37UXqqP2KPcY",
+      "image_3": "https://70.img.avito.st/image/1/1.BtOU27a4qjqicmg_lO9y9bl5qDwqeigy4n-oOCRyojAi.4CYDoQxAzbWjHd2FK4nHbpA_DSKMiEidPrl1lTGiOrU",
+      "image_4": "https://30.img.avito.st/image/1/1.wswFIba4biUziKwgDRq26iiDbCO7gOwtc4VsJ7WIZi-z.y0Kii3x9gz-jZ3nUhFH8DPbchFeVqNI72yaXFzDqlJU"
+    },
+    {
+      "id": 9,
+      "largeImage": "https://30.img.avito.st/image/1/1.U9xxqba4_zVHAD0wW4Q5_VwL_TPPCH09Bw39N8EA9z_H.PUpyBeRTIfqvIe1-prYnnjI2yRdpZOqjwbgM8avQxlA",
+      "image_1": "https://60.img.avito.st/image/1/1.aP_ZLba4xBbvhAYThQAC3vSPxhBnjEYer4nGFGmEzBxv.jXMKt-cZJaFmB2I86JQxUtWD1QdD5P6ENrVRJMjwlJs",
+      "image_2": "https://00.img.avito.st/image/1/1.ICWizba4jMyUZE7J7vVKBI9vjsocbA7E1GmOzhJkhMYU.b_-iMft_uSoHgT5zsPQDaVG42hUo5kDtqxbj4OmjeUg",
+      "image_3": "https://60.img.avito.st/image/1/1.vUJ0Lra4EatCh9OuAizXY1mME63Kj5OjAooTqcSHGaHC.Bwoj7TQkyF3cB2A7Vsy_AtwYYFbH7NgUZHWB8qRrQh0",
+      "image_4": "https://50.img.avito.st/image/1/1.2_DuVra4dxnY_7Uc1CGB-N_0dR9Q9_URmPJ1G17_fxNY.EqF9A3BNAQqok3cHwgrLOvTGyIE8Ue08pSznALyUAFs"
+    },
+    {
+      "id": 10,
+      "largeImage": "https://00.img.avito.st/image/1/1.gXRz3ra4LZ1Fd--YfeSxKF58L5vNf6-VBXovn8N3JZfF.LkCgdLrvk65OB-0aTD4GFi65BSWx7w_WC1rmPbcPjFQ",
+      "image_1": "https://80.img.avito.st/image/1/1.qCas7La4BM-aRcbK8J7scYFOBskSTYbH2kgGzRxFDMUa.Ifr6igPzv-HEXXtGfC336X3vsH-2d7UVxB2lCZ0gvfg",
+      "image_2": "https://50.img.avito.st/image/1/1.k2aRRba4P4-n7P2KuzfXMbznPYkv5L2H5-E9jSHsN4Un.H8Dy9d_v9F1PDA_PE9JsK489fBCmdz1R-lGVMjMl-9M",
+      "image_3": "https://50.img.avito.st/image/1/1.uh-BWra4Fva389Tz-XChDKP4FPA_-5T-9_4U9DHzHvw3.9gbpCIIIIvFvesbt-x9su6OVPtsnZQCtDtdz6hGfDww",
+      "image_4": "https://20.img.avito.st/image/1/1.nfBKaba4MRl8wPMcfFuG42jLMx_0yLMRPM0zG_rAORP8.WfpGfJJmtpq2V9lHPW6IUNzeE3Kql4khtpyzmURlbsk"
+    },
+    {
+      "id": 11,
+      "largeImage": "https://60.img.avito.st/image/1/1.AZ24vba4rXSOFG9xtpkG95Ufr3IGHC98zhmvdggUpX4O.lx9J34XiiLXZzJd0xY7TKjJ5IxXi1n6TMw7h5op4dNw",
+      "image_1": "https://00.img.avito.st/image/1/1.XQzXYra48eXhyzPg4VdbZvrA8-Npw3Ptocbz52fL-e9h.aUrYs89uQWjMVCIVkw0eug14v6hQhsWNIZIJY3A1N5E",
+      "image_2": "https://30.img.avito.st/image/1/1.ZzPu2ra4y9rYcwnfrL9hWcN4ydxQe0nSmH7J2F5zw9BY.V_bkZlRby--upicEBV229VcjdSMU6LuJuzvb9tNRS38",
+      "image_3": "https://50.img.avito.st/image/1/1.gywrJLa4L8Udje3AIQqFRgaGLcOVha3NXYAtx5uNJ8-d._YO5dfQbi5_En7puCrwG2ISHYeHKQ6vLu95DcuYlPig",
+      "image_4": "https://50.img.avito.st/image/1/1.OiVqoLa4lsxcCVTJEvQzT0cClMrUARTEHASUztoJnsbc.yiHw4_JJjv_WLMbH-InmFhuRpQAOrHhXDGqbO9mHNSQ"
+    },
+    {
+      "id": 12,
+      "largeImage": "https://40.img.avito.st/image/1/1.Bcm7fba5qSCN1GslvUVvqWneryoPXqHiCt6rJAfUoyI.v_9VJvOs19GDX-EL8P8WZxgV_HUFUbf1ksqv8FPVY6o",
+      "image_1": "https://90.img.avito.st/image/1/1.7kxy4ra5QqVES4CgIqmELKBBRK_GwUpnw0FAoc5LSKc.LDBcRLRDpGA2M7O5VCyC35W4l3UqvF91E-VboJtB0SI",
+      "image_2": "https://40.img.avito.st/image/1/1.BPqwTLa5qBOG5WoWtHRummLvrhkEb6DRAe-qFwzlohE.HAEYvTCLrgWNaNQrUPIU8gM8kpQaR51UqDA7tHfly8s",
+      "image_3": "https://90.img.avito.st/image/1/1.rcm7dba5ASCN3MMl7UvHqWnWByoPVgniCtYDJAfcCyI.uAgbnzzPz2O2htIke4Gp3WcMgsV7T4nxOvnYHSJ31nE",
+      "image_4": "https://30.img.avito.st/image/1/1.SIUHs7a55GwxGiZpG44i5dUQ4mazkOyuthDmaLsa7m4.CQEsEpuL3WADXQm5KYNOprG-lDL9T3dg2un6O_1nWE8"
+    }
+  ],
+  "contacts": [
+    {
+      "id": 1,
+      "FirstName": "Аслан",
+      "LastName": "Абубакаров"
+    },
+    {
+      "id": 2,
+      "FirstName": "Ахьмад",
+      "LastName": "Дудахов"
+    },
+    {
+      "id": 3,
+      "FirstName": "Азизхан",
+      "LastName": "Эбиев"
+    },
+    {
+      "id": 4,
+      "FirstName": "Руслан",
+      "LastName": "Карпачев"
+    },
+    {
+      "id": 5,
+      "FirstName": "Евгений",
+      "LastName": "Нагаев"
+    },
+    {
+      "id": 6,
+      "FirstName": "Миша",
+      "LastName": "Литвинов"
+    },
+    {
+      "id": 7,
+      "FirstName": "Федор",
+      "LastName": "Курсенский"
+    },
+    {
+      "id": 8,
+      "FirstName": "Бакар",
+      "LastName": "Умаров"
+    },
+    {
+      "id": 9,
+      "FirstName": "Изнаур",
+      "LastName": "Дакаев"
+    },
+    {
+      "id": 10,
+      "FirstName": "Ксения",
+      "LastName": "Иванова"
+    }
+  ],
+  "chats": [
+    {
+      "messageId": 1,
+      "userName": "Аслан",
+      "nameOfAdvertisement": "Курсы программирования Lincode (Frontend-разработка)",
+      "message": "Добрый день! Можно информацию по курсу?"
+    },
+    {
+      "messageId": 2,
+      "userName": "Ахьмад",
+      "nameOfAdvertisement": "Курсы программирования Lincode (Frontend-разработка)",
+      "message": "Ассаламу алейкум ва рахьматуллах1. Сертификат выдаете после обучения?"
+    },
+    {
+      "messageId": 3,
+      "userName": "Азизхан",
+      "nameOfAdvertisement": "Курсы программирования Lincode (Frontend-разработка)",
+      "message": "Ассаламу алейкум. Набор на индивидуальное обучение идет у вас? "
+    },
+    {
+      "messageId": 4,
+      "userName": "Руслан",
+      "nameOfAdvertisement": "Курсы программирования Lincode (Frontend-разработка)",
+      "message": "Добрый день! Как мне записаться на курс?"
+    },
+    {
+      "messageId": 5,
+      "userName": "Евгений",
+      "nameOfAdvertisement": "Курсы программирования Lincode (Frontend-разработка)",
+      "message": "Здравствуйте, Хотели отдать своего сына на курсы программирования, наткнулись на ваше объявление, расскажите подробнее про свой курс"
+    },
+    {
+      "messageId": 6,
+      "userName": "Миша",
+      "nameOfAdvertisement": "Курсы программирования Lincode (Frontend-разработка)",
+      "message": "Доброго времени суток, У меня дочь, 18-ти лет, хотела обучиться программированию, ваш курс по описанию мне понравился, скажите вы обучаете девушек?"
+    },
+    {
+      "messageId": 7,
+      "userName": "Федор",
+      "nameOfAdvertisement": "Курсы программирования Lincode (Frontend-разработка)",
+      "message": "Добрый день! Можно информацию по курсу?"
+    },
+    {
+      "messageId": 8,
+      "userName": "Бакар",
+      "nameOfAdvertisement": "Курсы программирования Lincode (Frontend-разработка)",
+      "message": "Ассаламу алейкум, мац ю набор брат?"
+    },
+    {
+      "messageId": 9,
+      "userName": "Изнаур",
+      "nameOfAdvertisement": "Курсы программирования Lincode (Frontend-разработка)",
+      "message": "Ассаламу алейкум, тха жимох вол ваш вар чох программирование 1амо лууш, хотел бы к вам его отдать, скиньте свой номер чтобы могли поговорить по телефону"
+    },
+    {
+      "messageId": 10,
+      "userName": "Ксения",
+      "nameOfAdvertisement": "Курсы программирования Lincode (Frontend-разработка)",
+      "message": "Добрый день! Можно информацию по курсу?"
+    }
+  ]
+}
