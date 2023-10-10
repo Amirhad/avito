@@ -1,6 +1,6 @@
 import React from "react";
 
-import styles from "../../pages/masseges.module.css";
+import styles from "../../styles/messages.module.scss";
 import { Chats } from "../Chats";
 import { MessegesButton } from "./Messeges_button";
 

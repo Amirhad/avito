@@ -3,7 +3,7 @@ import React from "react";
 import { Button } from "../../Button/Button";
 import { Input } from "../../Input/Input";
 
-import styles from "../content.module.css";
+import styles from "../../../styles/content.module.scss";
 export const Search = () => {
   return (
     <div className={styles.search}>

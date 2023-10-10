@@ -1,5 +1,5 @@
 import React from "react";
-import styles from "../../pages/masseges.module.css";
+import styles from "../../styles/messages.module.scss";
 import img from "../../assets/img.png";
 export const Chat = ({ chat }) => {
   return (

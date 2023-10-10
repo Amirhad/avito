@@ -1,5 +1,5 @@
 import React from "react";
-import styles from "./Advertisement.module.css";
+import styles from "../../styles/Advertisement.module.scss";
 import lin from "../../assets/lin.png";
 export const Advertisement = () => {
   return (

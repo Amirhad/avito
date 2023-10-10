@@ -5,7 +5,7 @@ import React from "react";
 import { Cards } from "./Cards/Cards";
 
 //styles
-import styles from "../content.module.css";
+import styles from "../../../styles/content.module.scss";
 
 export const Recommended = () => {
   return (

@@ -8,7 +8,7 @@ import { Button } from "../Button/Button";
 import { DropDown } from "../DropDown/DropDown";
 
 //styles
-import styles from "./header.module.css";
+import styles from "../../styles/header.module.scss";
 
 //image
 import heart from "../../assets/heart-header.svg";
@@ -34,27 +34,23 @@ export const Navigation = () => {
         <Link to="/My/advertisement">Мои объявления</Link>
       </div>
 
-
-
-      <div className={styles.accaunt} ref={ref} onClick={() => setIsShow(!isShow)}>
+      <div
+        className={styles.accaunt}
+        ref={ref}
+        onClick={() => setIsShow(!isShow)}
+      >
         <div className={styles.avatar}>
           <img src={accaunt} alt="accaunt" />
         </div>
 
-
-
-
-          <p className={styles.p} >
-            {" "}
-            Lincode
-          </p>
-          {isShow ? (
-            <div className={styles.dropdown_content}>
-              <DropDown />
-            </div>
-          ) : (
-            ""
-          )}
+        <p className={styles.p}> Lincode</p>
+        {isShow ? (
+          <div className={styles.dropdown_content}>
+            <DropDown />
+          </div>
+        ) : (
+          ""
+        )}
       </div>
       <Link to="/add/advertisement">
         <Button color="white" text="Разместить объявление" width="205px" />
@@ -62,9 +58,3 @@ export const Navigation = () => {
     </div>
   );
 };
-//onClick={() => setIsShow(!isShow)}
-
-// {isShow ? (
-//<div className={styles.absolute} ref={ref}>
-//<DropDown />
-//</div>

@@ -1,7 +1,7 @@
 import React from "react";
 import {useSelector} from "react-redux";
 
-import styles from "./cards.module.css";
+import styles from "../../../../styles/cards.module.scss";
 import { Card } from "./Card";
 
 export const Cards = () => {

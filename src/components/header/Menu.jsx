@@ -1,6 +1,6 @@
 import React from 'react'
 
-import style from './header.module.css'
+import style from '../../styles/header.module.scss'
 export const  Menu = ()=>  {
   return (
     <div className={style.menu}>

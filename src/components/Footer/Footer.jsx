@@ -1,10 +1,12 @@
 import React from "react";
 
+import styles from '../../styles/footer.module.scss'
+
 export const Footer = () => {
   return (
     <div style={{marginTop:'100px'}}>
-        <div className="container_footer">
-      <div className="footer_top">
+        <div className={styles.container_footer}>
+      <div className={styles.footer_top}>
         <ul>
           <li>Разместить объявление </li>
           <li>Объявления</li>
@@ -19,7 +21,7 @@ export const Footer = () => {
         </ul>
       </div>
 
-      <div className="footer_bottom">
+      <div className={styles.footer_bottom}>
         <p>Lincode-Авито — Продукт от Lincode, аналог сайта объявлении (Авито). © ООО «Lincode Corporation» 2022–2023.</p>
       </div>
     </div>

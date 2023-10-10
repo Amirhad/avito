@@ -1,0 +1,46 @@
+.container {
+    width: 1320px;
+    margin: 20px auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .logo > a > img {
+    width: 230px;
+  }
+  .search {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 80%;
+  }
+  
+  .services_container {
+    width: 900px;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    flex-wrap: wrap;
+  }
+  .services_container > div {
+    background-color: #011765;
+    padding: 13px;
+    text-align: center;
+    width: 190px;
+    margin: 10px 0 0 0;
+    color: white;
+    font-size: 24px;
+    border-radius: 15px;
+    white-space: pre-line;
+  }
+  .services_container > div:hover {
+    background-color: #292929;
+    transition: 0.5s;
+    cursor: pointer;
+  }
+  
+  .recommended_ads_container {
+    width: 1320px;
+    margin: 100px auto 0 auto;
+  }
+  

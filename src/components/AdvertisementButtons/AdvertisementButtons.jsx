@@ -1,7 +1,7 @@
 import React from "react";
 import { Button } from "../Button/Button";
 
-import styles from "./buttons.module.css";
+import styles from "../../styles/buttons.module.scss";
 
 
 import dog from '../../assets/dog.svg'

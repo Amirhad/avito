@@ -12,7 +12,7 @@ import { App } from "./components/App";
 import {store} from "./redux/configureStore";
 
 // styles
-import "./index.css";
+import "./styles/index.scss";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(

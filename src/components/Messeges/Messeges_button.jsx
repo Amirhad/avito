@@ -1,17 +1,17 @@
 import React from "react";
 import { Button } from "../Button/Button";
-import styles from "../../pages/masseges.module.css";
+import styles from "../../styles/messages.module.scss";
 
 export const MessegesButton = () => {
   return (
     <div className={styles.messegesButton}>
-      <div className="all_messages">
+      <div className={styles.all_messages}>
         <Button 
         text="Все сообщения"
          width="200px" 
          color="white" />
       </div>
-      <div className="filtered_button">
+      <div className={styles.filtered_button}>
         <Button
          text="Фильтр"
           width="200px"

@@ -1,6 +1,6 @@
 import React from "react";
 
-import styles from "./title-price.module.css";
+import styles from '../../styles/titlePrice.module.scss'
 
 export const TitleAndPrice = ({item}) => {
   return (
