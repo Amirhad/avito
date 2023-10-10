@@ -1,13 +1,17 @@
 //cards
+
+import { Dispatch } from "react";
+import { EnumActionTypes, ReduxAction } from "../../types";
+
 export const loadDesc = () =>{
-    return (dispatch) =>{
-        dispatch({type:"load/desc/start"})
+    return (dispatch:Dispatch<ReduxAction>):void =>{
+        dispatch({type:EnumActionTypes.FETCH_DESC})
 
         fetch("http://localhost:8080/descriptionAdvertisement")
         .then((res) => res.json())
         .then((data) =>{
             dispatch({
-                type:"load/desc/success",
+                type:EnumActionTypes.FETCH_DESC_FULFILLED,
                 payload:data
             })
         })
@@ -17,14 +21,14 @@ export const loadDesc = () =>{
 
 //image
 export const loadLargeImage = () =>{
-    return (dispatch) =>{
-        dispatch({type:"load/image/start"})
+    return (dispatch:Dispatch<ReduxAction>):void =>{
+        dispatch({type:EnumActionTypes.FETCH_IMG})
 
         fetch("http://localhost:8080/sliderImage")
         .then((res) => res.json())
         .then((data) =>{
             dispatch({
-                type:"load/image/success",
+                type:EnumActionTypes.FETCH_IMG_FULFILLED,
                 payload:data
             })
         })
@@ -34,14 +38,14 @@ export const loadLargeImage = () =>{
 
 //adress
 export const loadAdress = () =>{
-    return(dispatch) =>{
-        dispatch({type: "load/adress/start"})
+    return(dispatch:Dispatch<ReduxAction>):void =>{
+        dispatch({type: EnumActionTypes.FETCH_ADRESS})
         
         fetch( "http://localhost:8080/addresses")
         .then((res) => res.json())
         .then((data) => {
             dispatch({
-                type:"load/adress/success",
+                type:EnumActionTypes.FETCH_ADRESS_FULFILLED,
                 payload:data
             })
         })
@@ -52,14 +56,14 @@ export const loadAdress = () =>{
 
 //phone
 export const loadPhone = () =>{
-    return (dispatch) =>{
-        dispatch({type:"load/phone/start"})
+    return (dispatch:Dispatch<ReduxAction>):void =>{
+        dispatch({type:EnumActionTypes.FETCH_PHONE})
 
         fetch("http://localhost:8080/phone")
         .then((res) => res.json())
         .then((data) =>{
             dispatch({
-                type:"load/phone/success",
+                type:EnumActionTypes.FETCH_PHONE_FULFILLED,
                 payload:data
             })
         })
@@ -68,14 +72,14 @@ export const loadPhone = () =>{
 
 //title
 export const loadTitle = () =>{
-    return (dispatch) =>{
-        dispatch({type:"load/title/start"})
+    return (dispatch:Dispatch<ReduxAction>):void =>{
+        dispatch({type:EnumActionTypes.FETCH_TITILE})
 
         fetch("http://localhost:8080/title")
         .then((res) => res.json())
         .then((data) =>{
             dispatch({
-                type:"load/title/success",
+                type:EnumActionTypes.FETCH_TITILE_FULFILLED,
                 payload:data
             })
         })

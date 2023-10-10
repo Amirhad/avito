@@ -1,3 +1,5 @@
+import { EnumActionTypes, ReduxAction } from "../../types";
+
 const initialState = {
   image: [],
   desc:  [],
@@ -7,15 +9,15 @@ const initialState = {
   loading: false,
 };
 
-export const openAdvertisementReducer = (state = initialState, action) => {
+export const openAdvertisementReducer = (state = initialState, action:ReduxAction) => {
   switch (action.type) {
 
-    case "load/desc/start":
+    case EnumActionTypes.FETCH_DESC:
       return {
         ...state,
         loading: true,
       };
-    case "load/desc/success":
+    case EnumActionTypes.FETCH_DESC_FULFILLED:
       return {
         ...state,
         loading: false,
@@ -23,12 +25,12 @@ export const openAdvertisementReducer = (state = initialState, action) => {
       };
 
 
-    case "load/image/start":
+    case EnumActionTypes.FETCH_IMG:
       return {
         ...state,
         loading: true,
       };
-    case "load/image/success":
+    case EnumActionTypes.FETCH_IMG_FULFILLED:
       return {
         ...state,
         loading: false,
@@ -37,12 +39,12 @@ export const openAdvertisementReducer = (state = initialState, action) => {
 
 
 
-      case "load/adress/start":
+      case EnumActionTypes.FETCH_ADRESS:
         return {
           ...state,
           loading: true,
         };
-      case "load/adress/success":
+      case EnumActionTypes.FETCH_ADRESS_FULFILLED:
         return {
           ...state,
           loading: false,
@@ -50,12 +52,12 @@ export const openAdvertisementReducer = (state = initialState, action) => {
         };
 
   
-      case "load/phone/start":
+      case EnumActionTypes.FETCH_PHONE:
         return {
           ...state,
           loading: true,
         };
-      case "load/phone/success":
+      case EnumActionTypes.FETCH_PHONE_FULFILLED:
         return {
           ...state,
           loading: false,
@@ -64,12 +66,12 @@ export const openAdvertisementReducer = (state = initialState, action) => {
   
 
       
-    case "load/title/start":
+    case EnumActionTypes.FETCH_TITILE:
       return {
         ...state,
         loading: true,
       };
-    case "load/title/success":
+    case EnumActionTypes.FETCH_TITILE_FULFILLED:
       return {
         ...state,
         loading: false,
