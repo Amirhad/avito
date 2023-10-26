@@ -1,8 +1,8 @@
-import { Dispatch } from "react";
+import { Dispatch } from "redux";
 import { EnumActionTypes, ReduxAction } from "../../types";
 
 export const chats = () => {
-  return (dispatch:Dispatch<ReduxAction>):void => {
+  return (dispatch:Dispatch<ReduxAction>) => {
     dispatch({ type:  EnumActionTypes.FETCH_CHATHS});
 
     fetch("http://localhost:8080/chats")

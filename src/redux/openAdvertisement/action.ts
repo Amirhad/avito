@@ -1,6 +1,6 @@
 //cards
 
-import { Dispatch } from "react";
+import { Dispatch } from "redux";
 import { EnumActionTypes, ReduxAction } from "../../types";
 
 export const loadDesc = () =>{

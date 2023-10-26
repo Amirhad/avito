@@ -2,7 +2,7 @@ import React from "react";
 
 import styles from '../../styles/footer.module.scss'
 
-export const Footer = () => {
+export const Footer:React.FC = () => {
   return (
     <div style={{marginTop:'100px'}}>
         <div className={styles.container_footer}>

@@ -2,7 +2,7 @@ import React from "react";
 
 import styles from "../../../styles/content.module.scss";
 
-export const Services = () => {
+export const Services:React.FC = () => {
   return (
     <div className={styles.services_container}>
       <div>Авто</div>

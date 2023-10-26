@@ -7,7 +7,7 @@ import styles from "../../styles/buttons.module.scss";
 import dog from '../../assets/dog.svg'
 import filtered from '../../assets/filtered.svg'
 
-export const AdvertisementButtons = () => {
+export const AdvertisementButtons:React.FC = () => {
   return (
     <div className={styles.buttons_container}>
       <Button

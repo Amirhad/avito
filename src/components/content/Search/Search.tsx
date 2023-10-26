@@ -4,7 +4,7 @@ import { Button } from "../../Button/Button";
 import { Input } from "../../Input/Input";
 
 import styles from "../../../styles/content.module.scss";
-export const Search = () => {
+export const Search:React.FC = () => {
   return (
     <div className={styles.search}>
       <>

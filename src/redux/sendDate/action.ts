@@ -1,8 +1,8 @@
-import { Dispatch } from "react";
+import { Dispatch } from "redux";
 import { EnumActionTypes, ReduxAction } from "../../types";
 
-export const SendDate = (nameOfAddAdvertisement:string, image:string, price:number, location:string) => {
-  return (dispatch:Dispatch<ReduxAction>):void => {
+export const SendDate = (nameOfAddAdvertisement:string, image:string, price:string, location:string) => {
+  return (dispatch:Dispatch<ReduxAction>) => {
     dispatch({ type: EnumActionTypes.FETCH_SEND });
 
     fetch("http://localhost:8080/advertisement", {
@@ -27,3 +27,4 @@ export const SendDate = (nameOfAddAdvertisement:string, image:string, price:numb
       });
   };
 };
+// какой деск

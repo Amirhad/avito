@@ -9,7 +9,7 @@ import styles from "../../pages/masseges.module.css"
 
 
 
-export const MenuLogo = () => {
+export const MenuLogo:React.FC = () => {
   return (
     <div className={styles.menu_logo}>
         <img src={menu} alt="menu" />

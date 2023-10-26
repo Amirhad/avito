@@ -13,7 +13,7 @@ align-items: center;
 
 `
 
-export const  Header = ()  =>{
+export const  Header:React.FC = ()  =>{
   return (
     <StyledHeader>
         <Menu/>

@@ -7,20 +7,18 @@ import { Button } from "../components/Button/Button";
 //style
 import styles from "./AddAdvertisement.module.css";
 import { useState } from "react";
-import { useDispatch } from "react-redux";
-import { SendDate } from "../redux/sendDate/action";
+import { useActions } from "../hook/hook";
 
-export const AddAdvertisement = () => {
+export const AddAdvertisement: React.FC = () => {
   const [nameOfAddAdvertisement, setNameOfAddAdvertisement] = useState("");
   const [image, setImage] = useState("");
   const [desc, setDesc] = useState("");
   const [price, setPrice] = useState("");
   const [location, setLocation] = useState("");
 
-  const dispatch = useDispatch();
-
+  const { SendDate } = useActions();
   const handleClick = () => {
-    dispatch(SendDate(nameOfAddAdvertisement, image, desc, price,location));
+    SendDate(nameOfAddAdvertisement, image, price, location);
   };
 
   return (
@@ -50,12 +48,12 @@ export const AddAdvertisement = () => {
       <div className={styles.description_AddAdvertisement}>
         <span>Описание</span>
         <textarea onChange={(e) => setDesc(e.target.value)} value={desc} />
-      <span>Ваша локация</span>
-        <input 
-        type="text" 
-        value={location}
-        onChange={(e) =>setLocation(e.target.value)}
-         />
+        <span>Ваша локация</span>
+        <input
+          type="text"
+          value={location}
+          onChange={(e) => setLocation(e.target.value)}
+        />
       </div>
 
       <div className={styles.price_AddAdvertisement}>
@@ -103,3 +101,5 @@ export const AddAdvertisement = () => {
     </div>
   );
 };
+
+//если будут ошибки нужно проверить redux and button files

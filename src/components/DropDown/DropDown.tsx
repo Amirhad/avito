@@ -32,7 +32,7 @@ const List = styled.ul`
   }
 `;
 
-export const DropDown = () => {
+export const DropDown:React.FC = () => {
   return (
     <DropDownWrapper>
       <List>

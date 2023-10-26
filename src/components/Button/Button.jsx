@@ -29,6 +29,10 @@ export const Button = (props) => {
 
 Button.propTypes = {
   text: PropTypes.string.isRequired,
+  padding:PropTypes.string,
+  color: PropTypes.string,
+  width: PropTypes.string,
   icon: PropTypes.string,
-  onSubmit: PropTypes.func
+  onSubmit: PropTypes.func,
+  fontSize:PropTypes.string
 };

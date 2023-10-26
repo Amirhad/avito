@@ -1,5 +1,5 @@
-import React, { useEffect } from "react";
-import { useDispatch, useSelector } from "react-redux";
+
+import React from "react";
 import { useParams } from "react-router-dom";
 import { AdvertisementButtons } from "../components/AdvertisementButtons";
 
@@ -9,14 +9,17 @@ import { Description } from "../components/Description";
 import { Location } from "../components/Location/Location";
 import { Slider } from "../components/Slider";
 import { TitleAndPrice } from "../components/TitleAndPrice";
+import { useTypedSelector } from "../hook";
 
-export const OpenAdvertisement = () => {
-  const id = parseInt(useParams().id);
-  const desc = useSelector((state) => state.openCards.desc);
-  const address = useSelector((state) => state.openCards.adress);
-  const image = useSelector((state) => state.openCards.image);
-  const phone = useSelector((state) => state.openCards.phone);
-  const title = useSelector((state) => state.openCards.title);
+export const OpenAdvertisement:React.FC = () => {
+    // @ts-ignore
+  let  id  = parseInt( useParams().id)
+
+  const desc = useTypedSelector((state) => state.openCards.desc);
+  const address = useTypedSelector((state) => state.openCards.adress);
+  const image = useTypedSelector((state) => state.openCards.image);
+  const phone = useTypedSelector((state) => state.openCards.phone);
+  const title = useTypedSelector((state) => state.openCards.title);
 
   return (
     <div className="container-3">

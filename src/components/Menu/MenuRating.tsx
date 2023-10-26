@@ -2,7 +2,7 @@ import React from "react";
 
 import styles from "../../pages/masseges.module.css";
 
-export const MenuRating = () => {
+export const MenuRating:React.FC = () => {
   return (
     <div className={styles.menu_raiting}>
       <span>5,0</span>

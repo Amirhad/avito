@@ -2,7 +2,7 @@ import React from "react";
 import { Button } from "../Button/Button";
 import styles from "../../styles/messages.module.scss";
 
-export const MessegesButton = () => {
+export const MessegesButton:React.FC = () => {
   return (
     <div className={styles.messegesButton}>
       <div className={styles.all_messages}>

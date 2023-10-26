@@ -1,7 +1,7 @@
 import React from "react";
 import styles from "../../styles/Advertisement.module.scss";
 import lin from "../../assets/lin.png";
-export const Advertisement = () => {
+export const Advertisement:React.FC = () => {
   return (
     <div className={styles.advertisement}>
       <h1>Мои объявления</h1>

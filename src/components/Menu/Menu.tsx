@@ -10,7 +10,7 @@ import { MenuTitle } from "./MenuTitle";
 //styles
 import styles from "../../pages/masseges.module.css";
 
-export const Menu = () => {
+export const Menu:React.FC = () => {
   const { pathname } = useLocation();
   const label = [
     {

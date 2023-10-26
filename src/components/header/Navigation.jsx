@@ -5,7 +5,7 @@ import useOutsideAlerter from "../../hook/UseOutside";
 
 //components
 import { Button } from "../Button/Button";
-import { DropDown } from "../DropDown/DropDown";
+import { DropDown } from "../DropDown/DropDown.tsx";
 
 //styles
 import styles from "../../styles/header.module.scss";

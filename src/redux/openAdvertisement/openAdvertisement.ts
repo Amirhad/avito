@@ -1,9 +1,19 @@
 import { EnumActionTypes, ReduxAction } from "../../types";
 
-const initialState = {
-  image: [],
+
+interface initTypes {
+  desc:string[]
+  adress: string[];
+  image: string[];
+  phone: string[];
+  title: string[];
+  loading: boolean;
+}
+
+const initialState:initTypes = {
   desc:  [],
   adress:[],
+  image: [],
   phone: [],
   title: [],
   loading: false,

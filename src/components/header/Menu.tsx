@@ -1,7 +1,7 @@
 import React from 'react'
 
 import style from '../../styles/header.module.scss'
-export const  Menu = ()=>  {
+export const  Menu:React.FC = ()=>  {
   return (
     <div className={style.menu}>
     <ul>

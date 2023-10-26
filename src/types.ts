@@ -1,5 +1,5 @@
 export enum EnumActionTypes {
-  FETCH_SEND = "send/data/start",
+  FETCH_SEND = "FETCH_SEND",
   FETCH_SEND_FULFILLED = "send/data/success",
 
 

@@ -4,7 +4,7 @@ import { Logo } from "../content/Logo/Logo";
 import { Search } from "../content/Search/Search";
 import { Header } from "../header/Header";
 import { Footer } from "../Footer/Footer";
-export const Layout = () => {
+export const Layout:React.FC = () => {
   return (
     <>
       <Header />

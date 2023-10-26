@@ -1,6 +1,6 @@
 import React from "react";
 
-export const AboutHouse = () => {
+export const AboutHouse:React.FC = () => {
   return (
     <div style={{ marginTop: "100px" }}>
       <h2>О доме</h2>

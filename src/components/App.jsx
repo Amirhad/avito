@@ -1,4 +1,4 @@
-import { Message } from "../pages/Message";
+import { Message } from "../pages/Message.tsx";
 import { Routes, Route } from "react-router-dom";
 
 import { OpenAdvertisement } from "../pages/Open-advertisement";
@@ -38,3 +38,7 @@ export const App = () => {
     </Routes>
   );
 };
+
+
+
+//от abouthouse  до breadcrums типизировал

@@ -1,7 +1,12 @@
 import { EnumActionTypes, ReduxAction } from "../../types";
 
 interface ChatsType {
-  chats: [];
+  chats: Array<{
+   messageId: number
+   userName:string 
+   nameOfAdvertisement: string,
+   message: string}
+  >
   loadingCards: boolean;
 }
 

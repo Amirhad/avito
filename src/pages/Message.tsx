@@ -4,7 +4,7 @@ import { Messeges } from '../components/Messeges'
 
 import styles from './masseges.module.css'
 
-export const Message = () => {
+export const Message:React.FC = () => {
   return (
     <div className={styles.container}>
         <Menu/>

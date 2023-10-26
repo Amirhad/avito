@@ -4,7 +4,7 @@ import styles from "../../styles/messages.module.scss";
 import { Chats } from "../Chats";
 import { MessegesButton } from "./Messeges_button";
 
-export const Messeges = () => {
+export const Messeges:React.FC = () => {
   return (
     <div className={styles.messeges}>
       <span>Сообщения</span>
